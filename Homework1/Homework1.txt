@@ -1,2 +1,4 @@
 Hello World!
 This is the first line in homework1.txt file.
+
+Here are some changes from a new branch.
